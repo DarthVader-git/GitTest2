@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         print("Welcome to Github")
+        print("Practicing Commit")
         super.viewDidLoad()
        
     }
